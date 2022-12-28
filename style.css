@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {padding-top: 150px;
+    text-align: center;
+  background-color: #1f2937;
+}
+h1 {
+  color: #46d080;
+}
+h2 {
+  color: #d1d0d4;
+  margin-bottom: 12px;
+}
+#pro {
+  font-weight: bold;
+  color: #d5d4d8;
+}
+#fightButton:hover {
+  background-color: red;
+  cursor: pointer;
+}
+#fightButton {
+  padding: 5px;
+}
+#yarrab{
+    color: #46d080;
+}
